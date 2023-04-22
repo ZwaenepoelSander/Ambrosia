@@ -1,0 +1,22 @@
+{
+  "AMBROSIA.AbilityStr": "Strength",
+  "AMBROSIA.AbilityCon": "Constitution",
+  "AMBROSIA.AbilityDex": "Dexterity",
+  "AMBROSIA.AbilityInt": "Intelligence",
+  "AMBROSIA.AbilityWis": "Wisdom",
+  "AMBROSIA.AbilityCha": "Charisma",
+
+  "AMBROSIA.AbilityStrAbbr": "str",
+  "AMBROSIA.AbilityConAbbr": "con",
+  "AMBROSIA.AbilityDexAbbr": "dex",
+  "AMBROSIA.AbilityIntAbbr": "int",
+  "AMBROSIA.AbilityWisAbbr": "wis",
+  "AMBROSIA.AbilityChaAbbr": "cha",
+
+  "AMBROSIA.EffectCreate": "Create Effect",
+  "AMBROSIA.EffectToggle": "Toggle Effect",
+  "AMBROSIA.EffectEdit": "Edit Effect",
+  "AMBROSIA.EffectDelete": "Delete Effect",
+
+  "AMBROSIA.Add": "Add"
+}

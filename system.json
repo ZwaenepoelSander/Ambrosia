@@ -1,0 +1,39 @@
+{
+  "id": "ambrosia",
+  "title": "Ambrosia",
+  "description": "The Ambrosia system for FoundryVTT!",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": 10,
+    "verified": "10.291",
+    "maximum": 10
+  },
+  "authors": [{
+    "name": "Erlend Van der haegen"
+  }],
+  "esmodules": ["module/ambrosia.mjs"],
+  "styles": ["css/ambrosia.css"],
+  "scripts": [],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    },
+    {
+      "lang": "nl",
+      "name": "Dutch",
+      "path": "lang/nl.json"
+    }
+  ],
+  "gridDistance": 5,
+  "gridUnits": "m",
+  "primaryTokenAttribute": "health",
+  "secondaryTokenAttribute": "power",
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "license": "LICENSE.txt",
+  "changelog": "CHANGELOG.md"
+}
